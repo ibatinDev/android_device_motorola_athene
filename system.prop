@@ -253,6 +253,9 @@ ro.am.reschedule_service=true
 # XLAT
 persist.net.doxlat=true
 
+# EGL blobs crash on screen off
+ro.egl.destroy_after_detach=true
+
 #
 # ADDITIONAL_BUILD_PROPERTIES
 #
