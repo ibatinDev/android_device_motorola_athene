@@ -238,6 +238,7 @@ drm.service.enabled=true
 # Wi-fi
 net.tcp.2g_init_rwnd=10
 wifi.interface=wlan0
+wifi.supplicant_scan_interval=180
 
 # Play Store
 ro.com.google.clientidbase=android-motorola
